@@ -4,4 +4,9 @@
 
 ### 操作手順
 
-そのうち追記
+黒い画面で動かす。
+```
+$env HUBOT_SLACK_TOKEN=XXXX ./bin/hubot --adapter slack
+```
+
+そのうちちゃんとしたやつ追記します。
